@@ -1,7 +1,7 @@
 # AnimalSoundClassification
 
-Rajanbir Singh Sethi (101413692)
-Sarthak Taneja (101394349)
+<br> Rajanbir Singh Sethi (101413692)
+<br> Sarthak Taneja (101394349)
 
 # Introduction
 
